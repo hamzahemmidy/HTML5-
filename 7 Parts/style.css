@@ -1,0 +1,49 @@
+*{
+	margin: 0;
+	padding: 0 ;
+}
+
+#wrap{
+
+	margin: 0 auto;
+	text-align: center;
+}
+
+
+#nheader{
+	background: url('images/header_pic.jpg') bottom left
+	purple ;
+	padding: 25px;
+	height: 150px;
+
+}
+
+h1{
+	color: white;
+}
+img{
+	border: dotted 4px white;
+}
+
+#npara{
+	background: url('images/header_pic2.jpg') fixed bottom left #2980b9;
+	height: 350px;
+	padding: 30px;
+
+}
+
+.text_para{
+	color: white;
+	font-size: 30px;
+	font-family: Verdana;
+}
+
+.redColor{
+	color: red;
+}
+
+#footer{
+
+	background-color: purple;
+	padding: 50px;
+}
